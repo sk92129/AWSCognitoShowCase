@@ -11,7 +11,7 @@ Here is the sample Sign-In screen.
 ![image](https://github.com/user-attachments/assets/3d57ada7-0aa9-4f68-9683-554c0a411a13)
 
 
-If the user does not have an account, they can click on the xxx button to sign up.
+If the user does not have an account, they can click on the "Create New Account" button to sign up.
 
 Here is a sample Sign-Up screen:
 
