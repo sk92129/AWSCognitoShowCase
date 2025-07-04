@@ -8,6 +8,7 @@ The set up of AWS Cognito creates a userpool.
 Once the AWS cognito is set up, a front end application framework such as Flutter can set up their own customize UI.
 
 Here is the sample Sign-In screen.
+
 ![image](https://github.com/user-attachments/assets/3d57ada7-0aa9-4f68-9683-554c0a411a13)
 
 
