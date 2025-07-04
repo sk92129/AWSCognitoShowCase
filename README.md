@@ -26,3 +26,9 @@ The user will view their email inbox and fetch the code to paste into the verifi
 
 ![image](https://github.com/user-attachments/assets/b9348ee2-d0b5-4222-a28d-93c68f531a35)
 
+After this step, the user pool will have the user.  The user will be there even before the email account has been verified.
+
+![image](https://github.com/user-attachments/assets/eb714784-0b36-4bba-8f3f-dceaa1b6598b)
+
+
+
